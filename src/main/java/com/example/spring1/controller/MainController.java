@@ -4,6 +4,7 @@ public class MainController {
 
 	public void test() {
 		System.out.println("test");
+		System.out.println("test2");
 	}
 	
 }
