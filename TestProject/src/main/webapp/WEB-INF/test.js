@@ -1,0 +1,5 @@
+/**
+ * test.js
+ */
+
+ alert('test');
